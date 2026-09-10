@@ -1,3 +1,6 @@
+# Local-only project instructions, never committed (may hold sensitive context)
+CLAUDE.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
